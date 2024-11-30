@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|c:\\users\\khoa\\onedrive\\m\u00E1y t\u00EDnh\\assignmentnet1041\\assignmentnet1041\\views\\account\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|solutionrelative:assignmentnet1041\\views\\account\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|c:\\users\\khoa\\onedrive\\m\u00E1y t\u00EDnh\\assignmentnet1041\\assignmentnet1041\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|solutionrelative:assignmentnet1041\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|c:\\users\\khoa\\onedrive\\m\u00E1y t\u00EDnh\\assignmentnet1041\\assignmentnet1041\\areas\\admin\\views\\order\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|solutionrelative:assignmentnet1041\\areas\\admin\\views\\order\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|c:\\users\\khoa\\onedrive\\m\u00E1y t\u00EDnh\\assignmentnet1041\\assignmentnet1041\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|solutionrelative:assignmentnet1041\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|c:\\users\\khoa\\onedrive\\m\u00E1y t\u00EDnh\\assignmentnet1041\\assignmentnet1041\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|solutionrelative:assignmentnet1041\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|c:\\users\\khoa\\onedrive\\m\u00E1y t\u00EDnh\\assignmentnet1041\\assignmentnet1041\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|solutionrelative:assignmentnet1041\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|c:\\users\\khoa\\onedrive\\m\u00E1y t\u00EDnh\\assignmentnet1041\\assignmentnet1041\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|solutionrelative:assignmentnet1041\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|c:\\users\\khoa\\onedrive\\m\u00E1y t\u00EDnh\\assignmentnet1041\\assignmentnet1041\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4398EFF5-2AFE-4332-A880-0AE1A09495AA}|AssignmentNET1041\\AssignmentNET1041.csproj|solutionrelative:assignmentnet1041\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AssignmentNET1041\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AssignmentNET1041\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:27:31.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssignmentNET1041\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "AssignmentNET1041\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T07:26:32.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "RelativeDocumentMoniker": "AssignmentNET1041\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "ToolTip": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "RelativeToolTip": "AssignmentNET1041\\Areas\\Admin\\Views\\Order\\View.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T07:26:00.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Views\\Account\\History.cshtml",
+              "RelativeDocumentMoniker": "AssignmentNET1041\\Views\\Account\\History.cshtml",
+              "ToolTip": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Views\\Account\\History.cshtml",
+              "RelativeToolTip": "AssignmentNET1041\\Views\\Account\\History.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T07:25:23.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "AssignmentNET1041\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Services\\AccountService.cs",
+              "RelativeToolTip": "AssignmentNET1041\\Services\\AccountService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:19:08.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "AssignmentNET1041\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "AssignmentNET1041\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:18:09.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AssignmentNET1041\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AssignmentNET1041\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowFoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:40:52.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AssignmentNET1041\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\khoa\\OneDrive\\M\u00E1y t\u00EDnh\\AssignmentNET1041\\AssignmentNET1041\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AssignmentNET1041\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAA3wEkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T06:38:36.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

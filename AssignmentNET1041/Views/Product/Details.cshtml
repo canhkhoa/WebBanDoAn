@@ -1,0 +1,213 @@
+﻿
+<div class="row">
+	<div class="col-sm-3">
+		@Html.Partial("_SidebarPartial")
+	</div>
+
+	<div class="col-sm-9 padding-right">
+		<div class="product-details">
+			<!--product-details-->
+			<div class="col-sm-7">
+				<div class="view-product">
+					<img src="~/images/products/@Model.Image" alt=""  />
+					
+				</div>
+				
+
+			</div>
+			<div class="col-sm-5">
+				<div class="product-information">
+					<!--/product-information-->
+					
+					<h1>@Model.Name</h1>
+					
+					<span>
+						<span>@Model.Price.ToString("#,##0VNĐ")</span>
+						<label>Quantity: @Model.Quantity</label>
+						
+						@* <button type="button" class="btn btn-fefault cart">
+							<i class="fa fa-shopping-cart"></i>
+							Add to cart
+						</button> *@
+						@if (Model.Quantity > 0)
+						{
+							<button type="button" class="btn btn-default add-to-cart" data-product_id="@Model.Id"><i class="fa fa-shopping-cart">Thêm giỏ hàng</i></button>
+						}
+						else
+						{
+							<button type="button" class="btn btn-default"><i class="fa fa-shopping-cart">Hết hàng</i></button>
+						}
+					</span>
+					<p><b>Brand:</b> @Model.Brand.Name</p>
+					<p><b>Brand:</b> @Model.Category.Name</p>
+					<a href=""><img src="images/product-details/share.png" class="share img-responsive" alt="" /></a>
+				</div><!--/product-information-->
+			</div>
+		</div><!--/product-details-->
+
+		<div class="category-tab shop-details-tab">
+			<!--category-tab-->
+			<div class="col-sm-12">
+				<ul class="nav nav-tabs">
+					<li class="active"><a href="#details" data-toggle="tab">Details</a></li>
+					
+				</ul>
+			</div>
+			<div class="tab-content">
+				<div class="tab-pane fade active in" id="details">
+					
+					@Model.Description
+				</div>
+
+				<div class="tab-pane fade" id="companyprofile">
+					<div class="col-sm-3">
+						<div class="product-image-wrapper">
+							<div class="single-products">
+								<div class="productinfo text-center">
+									<img src="images/home/gallery1.jpg" alt="" />
+									<h2>$56</h2>
+									<p>Easy Polo Black Edition</p>
+									<button type="button" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="product-image-wrapper">
+							<div class="single-products">
+								<div class="productinfo text-center">
+									<img src="images/home/gallery3.jpg" alt="" />
+									<h2>$56</h2>
+									<p>Easy Polo Black Edition</p>
+									<button type="button" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="product-image-wrapper">
+							<div class="single-products">
+								<div class="productinfo text-center">
+									<img src="images/home/gallery2.jpg" alt="" />
+									<h2>$56</h2>
+									<p>Easy Polo Black Edition</p>
+									<button type="button" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="product-image-wrapper">
+							<div class="single-products">
+								<div class="productinfo text-center">
+									<img src="images/home/gallery4.jpg" alt="" />
+									<h2>$56</h2>
+									<p>Easy Polo Black Edition</p>
+									<button type="button" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="tab-pane fade" id="tag">
+					<div class="col-sm-3">
+						<div class="product-image-wrapper">
+							<div class="single-products">
+								<div class="productinfo text-center">
+									<img src="images/home/gallery1.jpg" alt="" />
+									<h2>$56</h2>
+									<p>Easy Polo Black Edition</p>
+									<button type="button" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="product-image-wrapper">
+							<div class="single-products">
+								<div class="productinfo text-center">
+									<img src="images/home/gallery2.jpg" alt="" />
+									<h2>$56</h2>
+									<p>Easy Polo Black Edition</p>
+									<button type="button" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="product-image-wrapper">
+							<div class="single-products">
+								<div class="productinfo text-center">
+									<img src="images/home/gallery3.jpg" alt="" />
+									<h2>$56</h2>
+									<p>Easy Polo Black Edition</p>
+									<button type="button" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="product-image-wrapper">
+							<div class="single-products">
+								<div class="productinfo text-center">
+									<img src="images/home/gallery4.jpg" alt="" />
+									<h2>$56</h2>
+									<p>Easy Polo Black Edition</p>
+									<button type="button" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="tab-pane fade" id="reviews">
+					<div class="col-sm-12">
+						<ul>
+							<li><a href=""><i class="fa fa-user"></i>EUGEN</a></li>
+							<li><a href=""><i class="fa fa-clock-o"></i>12:41 PM</a></li>
+							<li><a href=""><i class="fa fa-calendar-o"></i>31 DEC 2014</a></li>
+						</ul>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+						<p><b>Write Your Review</b></p>
+
+						<form action="#">
+							<span>
+								<input type="text" placeholder="Your Name" />
+								<input type="email" placeholder="Email Address" />
+							</span>
+							<textarea name=""></textarea>
+							<b>Rating: </b> <img src="images/product-details/rating.png" alt="" />
+							<button type="button" class="btn btn-default pull-right">
+								Submit
+							</button>
+						</form>
+					</div>
+				</div>
+
+			</div>
+		</div><!--/category-tab-->
+
+	
+		
+	</div>
+</div>
+@section Scripts {
+	<script>
+		$(document).ready(function () {
+			$('.add-to-cart').click(function () {
+				var Id = $(this).data("product_id");
+				$.ajax({
+					type: "POST",
+					url: "@Url.Action("Add", "Cart")",
+					data: { Id: Id },
+					success: function (result) {
+						if (result) {
+							Swal.fire("Thêm sản phẩm vào giỏ hàng thành công");
+						}
+					}
+				})
+			})
+		})
+	</script>
+}

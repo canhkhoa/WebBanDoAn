@@ -1,0 +1,472 @@
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.csproj.AssemblyReference.cache
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.AssemblyInfoInputs.cache
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.AssemblyInfo.cs
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.csproj.CoreCompileInputs.cache
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.MvcApplicationPartsAssemblyInfo.cache
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.RazorAssemblyInfo.cache
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.RazorAssemblyInfo.cs
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\appsettings.Development.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\appsettings.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.staticwebassets.runtime.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.staticwebassets.endpoints.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.exe
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.deps.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.runtimeconfig.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.pdb
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Azure.Core.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Azure.Identity.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Humanizer.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.ClientModel.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.CodeDom.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Memory.Data.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\scopedcss\bundle\AssignmentNET1041.styles.css
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\scopedcss\projectbundle\AssignmentNET1041.bundle.scp.css
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\col5a3xdal-2qf1wd7m0u.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\l398pu1t3x-4n2duddgf0.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\y2ru8li8vv-a03q467kau.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\4pxaix3syl-3je3f2rw5a.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\5ahktmzzrk-qtq4xdn8qs.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\lzi6j3866l-2al6ftd5ju.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\77qncddf2m-4iqjtdhhvf.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\hptc63hhx5-rpy24pqr5p.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\3xc03ehmt9-61n19gt1b8.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\1clfg0lpw2-ckio6tdysc.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\87p8p56r0s-vjr9ham21n.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\77d31lr4hm-db4y2vn6sl.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\e09t54rpam-34ikutiyxq.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\7izq9ff4r1-plnrga3sta.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\8i6lr2vbj8-nvd1pggfq2.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ay3cbqlkym-y2a4nngxpc.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\612td1iet9-59kgvyuv06.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\s82mxwuw5s-7wrb4rnl2v.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\lvvnvyu857-agp80tu62r.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\xdf2p17aua-st1cbwfwo5.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\z7ksk0nwxl-unj9p35syc.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ultgxuhiei-5vj65cig9w.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\o5hvdpl5jv-q2ku51ktnl.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\c8csgw89is-2q4vfeazbq.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\fq2r7a1vdv-n1oizzvkh6.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\lac40r5hy5-o371a8zbv2.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\1bnv27hb7v-7na4sro3qu.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\smndf8yc6o-jeal3x0ldm.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ao2z7l4ta2-f8imaxxbri.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\7ykkaytl6z-okkk44j0xs.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\zsullx1tv7-0wve5yxp74.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\mm53hygmyt-cwzlr5n8x4.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\om615dfd9z-npxfuf8dg6.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\tdh7lvuuki-wmug9u23qg.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\nfrcdzf3pa-tey0rigmnh.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\5i59hko1nr-j75batdsum.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\2lo078go46-16095smhkz.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\emol9e34qq-vy0bq9ydhf.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ksn8dkrd4s-b4skse8du6.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\3j7cgrknh2-ab1c3rmv7g.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\z2dxt4oqae-u3xrusw2ol.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\m0o5qe4hlh-56d2bn4wt9.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\b4vr4jyk1p-mpyigms19s.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\u8816phdct-73kdqttayv.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\23dtmvncm3-bpk8xqwxhs.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\841vgjxwhs-8inm30yfxf.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\pgl3lxq1st-ve6x09088i.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\hrbkx8j1ex-4gxs3k148c.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\7jns91l9xc-9b9oa1qrmt.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\wct1fumzy1-fctod5rc9n.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\vr9thve8ut-l2av4jpuoj.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\s7yoladcuc-kbynt5jhd9.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\fkb563degc-25iw1kog22.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\fv9jn2apqb-c2nslu3uf3.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\s8619rooz1-m39kt2b5c9.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\a453gxny7e-2lgwfvgpvi.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ao5ecohscb-um2aeqy4ik.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\zurbbyb7hf-wsezl0heh6.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\zyqacs4rzj-o4kw7cc6tf.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\qejsrqjeeq-6ukhryfubh.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\9piyq6xmio-zwph15dxgs.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\v5fxh1wfxb-u33ctipx7g.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\srsxe35aem-47otxtyo56.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\rtdsoyv42c-4v8eqarkd7.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\zey1asngzq-356vix0kms.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\22w5zx4mo0-ay5nd8zt9x.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\l4626qd8ja-9oaff4kq20.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\qh5ex87yhl-pzqfkb6aqo.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\gw4enso67v-b7iojwaux1.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\bdttl3t6do-x0q3zqp4vz.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\be3flpmtjw-fwhahm2icz.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\bdfsj4zl2d-dd6z7egasc.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\13jnddar1a-5pze98is44.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\qcr239nipe-mlv21k5csn.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\m02ntlqsn1-cror0tpn8k.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\7ib3ehardm-cror0tpn8k.gz
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.build.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.development.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentNET1041.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentNET1041.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.build.AssignmentNET1041.props
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AssignmentNET1041.props
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AssignmentNET1041.props
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.pack.json
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\Assignme.AD708387.Up2Date
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\refint\AssignmentNET1041.dll
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.pdb
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.genruntimeconfig.cache
+D:\hoc\NET104_BaiTap\Assignment\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\ref\AssignmentNET1041.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\appsettings.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.staticwebassets.endpoints.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.staticwebassets.runtime.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.exe
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.deps.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.runtimeconfig.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\AssignmentNET1041.pdb
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Humanizer.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.csproj.AssemblyReference.cache
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.AssemblyInfoInputs.cache
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.AssemblyInfo.cs
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.csproj.CoreCompileInputs.cache
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.RazorAssemblyInfo.cache
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.RazorAssemblyInfo.cs
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\scopedcss\bundle\AssignmentNET1041.styles.css
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\scopedcss\projectbundle\AssignmentNET1041.bundle.scp.css
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\col5a3xdal-2qf1wd7m0u.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\l398pu1t3x-4n2duddgf0.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\y2ru8li8vv-a03q467kau.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\4pxaix3syl-3je3f2rw5a.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\5ahktmzzrk-qtq4xdn8qs.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\lzi6j3866l-2al6ftd5ju.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\77qncddf2m-4iqjtdhhvf.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\hptc63hhx5-rpy24pqr5p.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\3xc03ehmt9-61n19gt1b8.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\1clfg0lpw2-ckio6tdysc.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\87p8p56r0s-vjr9ham21n.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\77d31lr4hm-db4y2vn6sl.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\e09t54rpam-34ikutiyxq.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\7izq9ff4r1-plnrga3sta.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\8i6lr2vbj8-nvd1pggfq2.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ay3cbqlkym-y2a4nngxpc.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\612td1iet9-59kgvyuv06.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\s82mxwuw5s-7wrb4rnl2v.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\lvvnvyu857-agp80tu62r.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\xdf2p17aua-st1cbwfwo5.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\z7ksk0nwxl-unj9p35syc.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ultgxuhiei-5vj65cig9w.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\o5hvdpl5jv-q2ku51ktnl.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\c8csgw89is-2q4vfeazbq.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\fq2r7a1vdv-n1oizzvkh6.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\lac40r5hy5-o371a8zbv2.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\1bnv27hb7v-7na4sro3qu.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\smndf8yc6o-jeal3x0ldm.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ao2z7l4ta2-f8imaxxbri.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\7ykkaytl6z-okkk44j0xs.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\zsullx1tv7-0wve5yxp74.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\mm53hygmyt-cwzlr5n8x4.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\om615dfd9z-npxfuf8dg6.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\tdh7lvuuki-wmug9u23qg.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\nfrcdzf3pa-tey0rigmnh.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\5i59hko1nr-j75batdsum.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\2lo078go46-16095smhkz.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\emol9e34qq-vy0bq9ydhf.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ksn8dkrd4s-b4skse8du6.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\3j7cgrknh2-ab1c3rmv7g.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\z2dxt4oqae-u3xrusw2ol.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\m0o5qe4hlh-56d2bn4wt9.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\b4vr4jyk1p-mpyigms19s.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\u8816phdct-73kdqttayv.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\23dtmvncm3-bpk8xqwxhs.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\841vgjxwhs-8inm30yfxf.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\pgl3lxq1st-ve6x09088i.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\hrbkx8j1ex-4gxs3k148c.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\7jns91l9xc-9b9oa1qrmt.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\wct1fumzy1-fctod5rc9n.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\vr9thve8ut-l2av4jpuoj.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\s7yoladcuc-kbynt5jhd9.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\fkb563degc-25iw1kog22.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\fv9jn2apqb-c2nslu3uf3.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\s8619rooz1-m39kt2b5c9.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\a453gxny7e-2lgwfvgpvi.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\ao5ecohscb-um2aeqy4ik.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\zurbbyb7hf-wsezl0heh6.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\zyqacs4rzj-o4kw7cc6tf.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\qejsrqjeeq-6ukhryfubh.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\9piyq6xmio-zwph15dxgs.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\v5fxh1wfxb-u33ctipx7g.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\srsxe35aem-47otxtyo56.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\rtdsoyv42c-4v8eqarkd7.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\zey1asngzq-356vix0kms.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\22w5zx4mo0-ay5nd8zt9x.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\l4626qd8ja-9oaff4kq20.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\qh5ex87yhl-pzqfkb6aqo.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\gw4enso67v-b7iojwaux1.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\bdttl3t6do-x0q3zqp4vz.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\be3flpmtjw-fwhahm2icz.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\bdfsj4zl2d-dd6z7egasc.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\13jnddar1a-5pze98is44.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\qcr239nipe-mlv21k5csn.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\m02ntlqsn1-cror0tpn8k.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\compressed\7ib3ehardm-cror0tpn8k.gz
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentNET1041.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.AssignmentNET1041.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.build.AssignmentNET1041.props
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.AssignmentNET1041.props
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.AssignmentNET1041.props
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\Assignme.AD708387.Up2Date
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\refint\AssignmentNET1041.dll
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.pdb
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\AssignmentNET1041.genruntimeconfig.cache
+C:\Users\khoa\OneDrive\Máy tính\AssignmentNET1041\AssignmentNET1041\obj\Debug\net9.0\ref\AssignmentNET1041.dll

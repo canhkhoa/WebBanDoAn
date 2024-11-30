@@ -1,0 +1,36 @@
+﻿
+<h3>ListUser</h3>
+<a asp-area="Admin" asp-action="Create" asp-controller="User">Add User</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">UserName</th>
+            <th scope="col">Email</th>
+            <th scope="col">PasswordHash</th>
+            <th scope="col">Phone</th>
+            <th scope="col">Role</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var userWithRoles in Model)
+        {
+            <tr>
+                <td>@userWithRoles.User.Id</td>
+                <td>@userWithRoles.User.UserName</td>
+                <td>@userWithRoles.User.Email</td>
+                <td>@userWithRoles.User.PasswordHash</td>
+                <td>@userWithRoles.User.PhoneNumber</td>
+                <td>
+                    @userWithRoles.RoleName
+                </td> 
+                <td>
+                    <a asp-area="Admin" asp-action="Edit" class="btn btn-warning btn-sm" asp-controller="User" asp-route-id="@userWithRoles.User.Id">Edit</a>
+                    <a asp-action="Delete" class="btn btn-danger btn-sm confirmDeletion" asp-controller="User" asp-route-id="@userWithRoles.User.Id">Delete</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

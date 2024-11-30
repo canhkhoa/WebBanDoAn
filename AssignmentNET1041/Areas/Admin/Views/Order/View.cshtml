@@ -1,0 +1,88 @@
+﻿@model IEnumerable<OrderDetails>
+@{
+    ViewData["Title"] = "Order Details";
+    decimal total = 0;
+    decimal subtotal = 0;
+}
+<h3>List Order</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Order Code</th>
+            <th scope="col">UserName</th>
+            <th scope="col">Name Product</th>
+            <th scope="col">Price</th>
+            <th scope="col">Quantity</th>
+            <th scope="col">SubTotal</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <input type="hidden" asp-for="@item.OrderCode" class="getId"/>
+            subtotal = item.Quantity * item.Price;
+            total += subtotal;
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.OrderCode</td>
+                <td>@item.UserName</td>
+
+                <td>@item.Product.Name</td>
+                <td>@item.Price.ToString("#,##0 VNĐ")</td>
+                <td>@item.Quantity</td>
+                <td>@subtotal.ToString("#,##0 VNĐ")</td>
+                
+
+                
+
+            </tr>
+        }
+        <tr>
+            <th colspan="5">Total:</th>
+            <td>@total.ToString("#,##0 VNĐ")</td>
+            @if (ViewBag.Status != 3)
+            {
+                <td>
+                    <select class="form-control select-update-order">
+                        <option value="1">Đơn hàng mới</option>
+                        <option value="0">Đã xử lý</option>
+                    </select>
+                </td>
+            }
+        </tr>
+    </tbody>
+</table>
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('.select-update-order').change(function () {
+                var status = $(this).val(); //status order
+                var ordercode = $('.getId').val();
+                // alert(status);
+                // alert(ordercode);
+                $.ajax({
+                    type: "POST",
+                    url: "@Url.Action("UpdateOrder")",
+                    data: { status: status, ordercode: ordercode }, // Send data to the server
+
+                    success: function (result) {         // Handle successful update
+                        if (result.success) {                  // Update UI or show success message
+                            // Code to update UI or display a success message to the user
+                            // console.log("Update successful");
+                             Swal.fire("Thay đổi trạng thái đơn hàng thành công");
+                        } else {
+                            // Handle error
+                            // console.log("Update failed: " + result.message);
+                            Swal.fire("Có mốt số lỗi đã xảy ra");
+                        }
+                    },
+                    error: function (req, status, error) {
+                        console.error("Error updating order: ", error);
+                    }
+                });
+            });
+        });
+    </script>
+}
